@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="sbt: org.apache.spark:spark-streaming_2.12:3.0.0-preview:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-streaming_2.12/3.0.0-preview/spark-streaming_2.12-3.0.0-preview.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-streaming_2.12/3.0.0-preview/spark-streaming_2.12-3.0.0-preview.jar!/" />
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-streaming_2.12/3.0.0-preview/spark-streaming_2.12-3.0.0-preview.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-streaming_2.12/3.0.0-preview/spark-streaming_2.12-3.0.0-preview-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-streaming_2.12/3.0.0-preview/spark-streaming_2.12-3.0.0-preview-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-streaming_2.12/3.0.0-preview/spark-streaming_2.12-3.0.0-preview-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-streaming_2.12/3.0.0-preview/spark-streaming_2.12-3.0.0-preview-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-streaming_2.12/3.0.0-preview/spark-streaming_2.12-3.0.0-preview-sources.jar!/" />
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-streaming_2.12/3.0.0-preview/spark-streaming_2.12-3.0.0-preview-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

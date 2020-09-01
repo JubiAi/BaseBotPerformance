@@ -1,0 +1,42 @@
+2020.05.17 13:52:19 INFO  started: Metals version 0.9.0 in workspace '/Users/admin/Desktop/Big Data/expsetup'
+2020.05.17 13:52:19 INFO  time: initialize in 0.44s
+2020.05.17 13:55:05 INFO  no build target: using presentation compiler with only scala-library
+2020.05.17 13:55:06 WARN  no build target for: /Users/admin/Desktop/Big Data/expsetup/src/main/scala/KafkaStream.scala
+2020.05.17 13:55:25 WARN  no build target for: /Users/admin/Desktop/Big Data/expsetup/src/main/scala/KafkaStream.scala
+2020.05.17 13:56:52 WARN  code navigation does not work for the file '/Users/admin/Desktop/Big Data/expsetup/src/main/scala/KafkaStream.scala' because it doesn't belong to a build target.
+2020.05.17 13:57:15 WARN  code navigation does not work for the file '/Users/admin/Desktop/Big Data/expsetup/src/main/scala/KafkaStream.scala' because it doesn't belong to a build target.
+2020.05.17 13:57:15 WARN  no build target for: /Users/admin/Desktop/Big Data/expsetup/src/main/scala/KafkaStream.scala
+2020.05.17 13:57:20 WARN  no build target for: /Users/admin/Desktop/Big Data/expsetup/src/main/scala/KafkaStream.scala
+2020.05.17 13:57:34 WARN  code navigation does not work for the file '/Users/admin/Desktop/Big Data/expsetup/src/main/scala/KafkaStream.scala' because it doesn't belong to a build target.
+2020.05.17 13:58:31 WARN  no build target for: /Users/admin/Desktop/Big Data/expsetup/src/main/scala/KafkaStream.scala
+May 17, 2020 2:00:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 539
+2020.05.17 14:00:47 WARN  no build target for: /Users/admin/Desktop/Big Data/expsetup/src/main/scala/KafkaStream.scala
+2020.05.17 14:01:03 WARN  no build target for: /Users/admin/Desktop/Big Data/expsetup/src/main/scala/KafkaStream.scala
+2020.05.17 14:01:03 WARN  no build target for: /Users/admin/Desktop/Big Data/expsetup/src/main/scala/KafkaStream.scala
+2020.05.17 14:01:03 WARN  no build target for: /Users/admin/Desktop/Big Data/expsetup/src/main/scala/KafkaStream.scala
+2020.05.17 14:01:03 WARN  no build target for: /Users/admin/Desktop/Big Data/expsetup/src/main/scala/KafkaStream.scala
+2020.05.17 14:02:17 WARN  no build target for: /Users/admin/Desktop/Big Data/expsetup/src/main/scala/SparkExample.scala
+2020.05.17 14:02:27 INFO  skipping build import with status 'Requested'
+2020.05.17 14:04:28 WARN  code navigation does not work for the file '/Users/admin/Desktop/Big Data/expsetup/src/main/scala/SparkExample.scala' because it doesn't belong to a build target.
+2020.05.17 14:04:28 WARN  no build target for: /Users/admin/Desktop/Big Data/expsetup/src/main/scala/SparkExample.scala
+2020.05.17 14:04:36 WARN  no build target for: /Users/admin/Desktop/Big Data/expsetup/src/main/scala/SparkExample.scala
+2020.05.17 14:04:48 WARN  no build target for: /Users/admin/Desktop/Big Data/expsetup/src/main/scala/SparkExample.scala
+2020.05.17 14:04:48 WARN  no build target for: /Users/admin/Desktop/Big Data/expsetup/src/main/scala/SparkExample.scala
+2020.05.17 14:04:48 WARN  no build target for: /Users/admin/Desktop/Big Data/expsetup/src/main/scala/SparkExample.scala
+2020.05.17 14:05:42 WARN  no build target for: /Users/admin/Desktop/Big Data/expsetup/src/main/scala/SparkExample.scala
+something's wrong: no file:///Users/admin/Desktop/Big%20Data/expsetup/src/main/scala/SparkExample.scala in Array[String]RangePosition(file:///Users/admin/Desktop/Big%20Data/expsetup/src/main/scala/SparkExample.scala, 867, 867, 880)
+2020.05.17 14:07:21 WARN  no build target for: /Users/admin/Desktop/Big Data/expsetup/src/main/scala/SparkExample.scala
+2020.05.17 14:08:34 WARN  no build target for: /Users/admin/Desktop/Big Data/expsetup/src/main/scala/SparkExample.scala
+2020.05.17 14:09:20 WARN  no build target for: /Users/admin/Desktop/Big Data/expsetup/src/main/scala/SparkExample.scala
+2020.05.17 14:13:39 WARN  no build target for: /Users/admin/Desktop/Big Data/expsetup/src/main/scala/SparkExample.scala
+2020.05.17 14:14:24 INFO  skipping build import with status 'Dismissed'
+2020.05.17 14:15:33 INFO  skipping build import with status 'Dismissed'
+2020.05.17 14:15:33 INFO  skipping build import with status 'Dismissed'
+2020.05.17 14:15:33 INFO  skipping build import with status 'Dismissed'
+2020.05.17 14:15:37 INFO  skipping build import with status 'Dismissed'
+2020.05.17 14:15:37 INFO  skipping build import with status 'Dismissed'
+2020.05.17 16:00:40 INFO  shutting down Metals
+2020.05.18 05:58:59 INFO  started: Metals version 0.9.0 in workspace '/Users/admin/Desktop/Big Data/expsetup'
+2020.05.18 05:58:59 INFO  time: initialize in 0.58s
+2020.05.18 05:59:17 INFO  shutting down Metals

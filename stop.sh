@@ -1,0 +1,1 @@
+hdfs dfs -rm /sparkShutdownMarkers-base-bot-stream-0;
